@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+.descriptified {
+	position: absolute;
+	background: #EEE;
+	-moz-border-radius: 10px;
+	border: 3px solid #666;
+	padding: 15px;
+}
+.descriptify-icon {
+	cursor: pointer;
+	display: inline-block;
+	background: transparent url(../img/descriptify-icon.gif);
+	width: 16px;
+	height: 16px;
+}
